@@ -6,5 +6,5 @@
 - [Equal](euqal.ts): judge by the **strict rules** of `function parameters`
 - [Include](include.ts): usage of **Recursion** and `Equal`
 - [Omit](omit.ts): usage of `as` in object key
-- [Readonly](readonly.ts): use `{} & {}` to combine objct
+- [Readonly](readonly.ts): use `{} & {}` to combine object
 - [DeepReadonly](deep-readonly.ts): determine whether `T` is an object by `keyof T extends never`

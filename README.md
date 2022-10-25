@@ -5,5 +5,5 @@
 - [TupleToObject](tuple-to-object.ts): usage of `T[number]`
 - [Equal](euqal.ts): judge by the **strict rules** of `function parameters`
 - [Include](include.ts): usage of **Recursion** and `Equal`
-- [Omit]: usage of `as` in object key
-- [Readonly]: {} & {}
+- [Omit](omit.ts): usage of `as` in object key
+- [Readonly](readonly.ts): {} & {}

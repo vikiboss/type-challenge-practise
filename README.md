@@ -14,3 +14,4 @@
 - [LengthOfString](length-of-string.ts): get `string`'s length indirectly by turning it into an `array`.
 - [AppendToObject](append-to-object.ts): `{ [K in keyof T | U]: any }`
 - [KebabCase](kebab-case.ts): `Uncapitalize` and `Capitalize`
+- [Diff](diff.ts): difference between `O1 & O2` and `O1 | O2` (`O1` and `O2` are plain objects)

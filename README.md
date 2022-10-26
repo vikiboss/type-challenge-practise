@@ -10,3 +10,4 @@
 - [DeepReadonly](deep-readonly.ts): determine whether `T` is an object by `keyof T extends never`
 - [PromiseAll](promise-all.ts): see [variadic-tuple-types](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-0.html#variadic-tuple-types)
 - [LookUp](look-up.ts): `U extends { type: T } ? U : never`
+- [Permutation](permutation.ts): `T extends T` and `[T] extends [never]`

@@ -15,3 +15,4 @@
 - [AppendToObject](append-to-object.ts): `{ [K in keyof T | U]: any }`
 - [KebabCase](kebab-case.ts): `Uncapitalize` and `Capitalize`
 - [Diff](diff.ts): difference between `O1 & O2` and `O1 | O2` (`O1` and `O2` are plain objects)
+- [AnyOf](anyof.ts): use `{ [key: string]: never }` to implement a plain and empty object

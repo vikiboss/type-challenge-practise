@@ -13,3 +13,4 @@
 - [Permutation](permutation.ts): `T extends T` and `[T] extends [never]`
 - [LengthOfString](length-of-string.ts): get `string`'s length indirectly by turning it into an `array`.
 - [AppendToObject](append-to-object.ts): `{ [K in keyof T | U]: any }`
+- [KebabCase](kebab-case.ts): `Uncapitalize` and `Capitalize`

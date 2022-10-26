@@ -11,3 +11,5 @@
 - [PromiseAll](promise-all.ts): see [variadic-tuple-types](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-0.html#variadic-tuple-types)
 - [LookUp](look-up.ts): `U extends { type: T } ? U : never`
 - [Permutation](permutation.ts): `T extends T` and `[T] extends [never]`
+- [LengthOfString](length-of-string.ts): get `string`'s length indirectly by turning it into an `array`.
+- [AppendToObject](append-to-object.ts): `{ [K in keyof T | U]: any }`
